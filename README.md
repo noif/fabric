@@ -1,4 +1,6 @@
 
+**Note:** fork自hyperledger/fabric,前期会对其中的docs文档进行中文翻译（针对最新的release版本），后期看时间会对源码进行解析
+
 **Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
 where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/Dashboard.jspa?selectPageId=10104)
 
